@@ -6,4 +6,4 @@ Branches:
  - exploration: full data exploration notebook
     - data cleaning & exploration
     - feature engineering
-    - model exploration & tuning.
+    - model exploration & tuning
